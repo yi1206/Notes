@@ -1,4 +1,11 @@
 # 1.GitHub簡介
+GitHub：Git倉庫網路託管服務
+GitHub主要功能：
+1. Git倉庫
+2. Organization
+3. Issue
+4. Wiki
+5. Pull Request
 # 2.Git
 # 3.使用GitHub的前置準備
 # 4.實際操作Git
