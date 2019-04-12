@@ -1,5 +1,6 @@
 # 1.GitHub簡介
 GitHub：Git倉庫網路託管服務
+
 GitHub主要功能：
 1. Git倉庫
 2. Organization
