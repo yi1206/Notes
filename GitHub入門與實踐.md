@@ -17,6 +17,8 @@ Git倉庫管理功能是GitHub的核心，所以在用GitHub前要先了解Git
     * 優點：不必連接伺服器就可開發
     * 缺點：學習門檻
 # 3.使用GitHub的前置準備
+* .gitignore：此文件紀錄不需要在Git倉庫中進行版本管理的文件
+* GitHub Flavored Markdown(GFM)語法
 # 4.實際操作Git
 # 5.GitHub功能
 # 6.嘗試Pull Request
